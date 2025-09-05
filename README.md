@@ -1,2 +1,2 @@
 # cybersecurity-internship-projects-
-Password Strength Tester A Python Tkinter-based tool that checks password strength in real-time, scoring based on lowercase, uppercase, digits, spaces, and symbols. Features include password generation, copy to clipboard, progress bar feedback, visibility toggle, and clear option for better password security.
+A collection of Python-based cybersecurity projects including a Password Strength Tester, a Port Scanner with Email support, and an Advanced Nmap-based Scanner. These tools demonstrate password auditing, network reconnaissance, service detection, and security awareness practices.
